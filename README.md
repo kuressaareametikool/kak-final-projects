@@ -9,6 +9,7 @@
  - [Liis Alber-Jaansalu](https://github.com/LiisAlber/Liis-Alber-Jaansalu-TA22-final)  
  - [Siim Pildre](https://github.com/siimpildre/SiimPildre-final-TA22)  
  - [Tene Tiitma](https://github.com/tenetiitma/TeneTiitma-final-TA22)  
+ - [Aliin Saar](https://github.com/aliinS/AjaHaldur)  
 
 ## TAK-21
 
