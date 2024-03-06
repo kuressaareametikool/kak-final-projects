@@ -13,6 +13,17 @@
  - [Raiko Tõhk](https://github.com/Raikotohk1/lopuprojekt)  
 
 ## TAK-21
+ - [Karl Andreas Mätlik,	Marten Saar](https)  
+ - [Kevin Zukker](https)  
+ - [Mattias Maasik](httpst)  
+ - [Timo Loho, Kaspar Vakkum](httpst)  
+ - [Anni Aavik	Ketrin Vanatoa](https)  
+ - [Fredy Ait	Markus Timofejev	Raiko Toomsalu](https)  
+ - [Krista Kallas](http)  
+ - [Evert Kärp](httpt)  
+ - [Kristjan Lessel](httpuprojekt)  
+ - [Kristo Tänak](httjekt)  
+ - [Nathan Raielo](htprojekt)  
 
 
 # 2020
