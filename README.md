@@ -10,6 +10,7 @@
  - [Siim Pildre](https://github.com/siimpildre/SiimPildre-final-TA22)  
  - [Tene Tiitma](https://github.com/tenetiitma/TeneTiitma-final-TA22)  
  - [Aliin Saar](https://github.com/aliinS/AjaHaldur)  
+ - [Raiko Tõhk](https://github.com/Raikotohk1/lopuprojekt)  
 
 ## TAK-21
 
