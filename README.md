@@ -24,7 +24,7 @@
  - [Evert Kärp, Sander-Aleks Mander, Gendro Umber](https://github.com/sander-aleks/Loputoo)  
  - [Kristjan Lessel](httpuprojekt)  
  - [Kristo Tänak](httjekt)  
- - [Nathan Raielo](htprojekt)  
+ - [Nathan Raielo](https://github.com/N4thanT/VR_project)  
 
 
 # 2020
