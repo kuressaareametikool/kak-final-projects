@@ -11,6 +11,7 @@
  - [Tene Tiitma](https://github.com/tenetiitma/TeneTiitma-final-TA22)  
  - [Aliin Saar](https://github.com/aliinS/AjaHaldur)  
  - [Raiko Tõhk](https://github.com/Raikotohk1/lopuprojekt)  
+ - [Rainis-Ross Tiirik](https)  
 
 ## TAK-21
  - [Karl Andreas Mätlik,	Marten Saar](https)  
