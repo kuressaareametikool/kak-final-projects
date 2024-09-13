@@ -6,7 +6,7 @@
 - [Romello](https://github.com/)
 
 
-# 2025
+# 2024
 
 ## TA-22
  - [Mari-Liis Sink](https://github.com/mariliis01/TA-22-final-Mari-Liis-Sink)  
