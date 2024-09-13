@@ -3,7 +3,19 @@
 # 2025
 
 ## TAK-22
-- [Romello](https://github.com/)
+- [Romello Lasn](https://github.com/) - Trustpiloti laadne reitingute jagamise teenus
+- [Mikk Maltis](https://github.com/) - 2D mäng või CS juhendi äpp
+- [Kertu Beljäev](https://github.com/) - kogukonnamuuseumi andmebaas
+- [Otto Nuum](https://github.com/) - AdBlock laiendus või mõni muu veebibrauseri laiendus
+- [Mardo Mai](https://github.com/) - e-pood?
+- [Oskar Kallas, Robin Pruunlep, Jakob Vapper](https://github.com/) - 
+- [Kevin Jašin](https://github.com/) - 
+- [Henry Kalvi Kaalma](https://github.com/) - 
+- [Kevin Kangur](https://github.com/) - 
+- [Axel Pärnoja](https://github.com/) - 
+- [Kristo-Steven Altmäe](https://github.com/) - 
+- [Martin Joosep Reiljan](https://github.com/) - 
+- [Karl Rüütel](https://github.com/) - 
 
 
 # 2024
