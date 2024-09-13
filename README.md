@@ -3,18 +3,18 @@
 # 2025
 
 ## TAK-22
-- [Romello Lasn](https://github.com/) - Trustpiloti laadne reitingute jagamise teenus
-- [Mikk Maltis](https://github.com/) - 2D mäng või CS juhendi äpp
-- [Kertu Beljäev](https://github.com/) - kogukonnamuuseumi andmebaas
-- [Otto Nuum](https://github.com/) - AdBlock laiendus või mõni muu veebibrauseri laiendus
-- [Mardo Mai](https://github.com/) - e-pood?
-- [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/) - Rahatarkuse äpp
-- [Kevin Jašin](https://github.com/) - Veebileht eraõpetajale
-- [Henry Kalvi Kaalma](https://github.com/) - 
-- [Kevin Kangur](https://github.com/) - ???
-- [Kristo-Steven Altmäe](https://github.com/) - jõusaali äpp
-- [Martin Joosep Reiljan](https://github.com/) - 
-- [Karl Rüütel](https://github.com/) - ???
+- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Trustpiloti laadne reitingute jagamise teenus
+- [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - 2D mäng või CS juhendi äpp
+- [Kertu Beljäev](https://github.com/Kertu2011/final-project) - kogukonnamuuseumi andmebaas
+- [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - AdBlock laiendus või mõni muu veebibrauseri laiendus
+- [Mardo Mai](https://github.com/mardomai/L-put-) - e-pood?
+- [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp
+- [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
+- [Henry Kalvi Kaalma]() - 
+- [Kevin Kangur]() - ???
+- [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Gym-tracker) - jõusaali äpp
+- [Martin Joosep Reiljan]() - 
+- [Karl Rüütel]() - ???
 
 
 # 2024
