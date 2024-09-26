@@ -10,11 +10,10 @@
 - [Mardo Mai](https://github.com/mardomai/L-put-) - e-pood?
 - [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp
 - [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
-- [Henry Kalvi Kaalma]() - 
-- [Kevin Kangur]() - ???
+- [Henry Kalvi Kaalma]() - lennunduse API
+- [Kevin Kangur]() - riistvara komponentide soovitamine ???
 - [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Gym-tracker) - jõusaali äpp
-- [Martin Joosep Reiljan]() - 
-- [Karl Rüütel]() - ???
+- [Martin Joosep Reiljan]() - kennel ???
 
 
 # 2024
