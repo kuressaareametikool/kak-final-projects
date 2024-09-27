@@ -3,17 +3,17 @@
 # 2025
 
 ## TAK-22
-- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Trustpiloti laadne reitingute jagamise teenus
+- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale / Trustpiloti laadne reitingute jagamise teenus
 - [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - 2D mäng või CS juhendi äpp
 - [Kertu Beljäev](https://github.com/Kertu2011/final-project) - kogukonnamuuseumi andmebaas
-- [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - AdBlock laiendus või mõni muu veebibrauseri laiendus
-- [Mardo Mai](https://github.com/mardomai/L-put-) - e-pood?
+- [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - Brauseri laiendus - AdBlock / Performance analüüs
+- [Mardo Mai](https://github.com/mardomai/L-put-) - e-pood? katusepaigalduse veebileht?
 - [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp
 - [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
-- [Henry Kalvi Kaalma]() - lennunduse API
+- [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - lennunduse API (mäng?)
 - [Kevin Kangur]() - riistvara komponentide soovitamine ???
 - [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Gym-tracker) - jõusaali äpp
-- [Martin Joosep Reiljan]() - kennel ???
+- [Martin Joosep Reiljan](https://github.com/Joosepi/kennel-app) - kennel ???
 
 
 # 2024
