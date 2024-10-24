@@ -13,7 +13,7 @@
 - [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - lennunduse API (mäng?)
 - [Kevin Kangur](https://github.com/KevinKangur/PC-Part-Suggester) - riistvara komponentide soovitamine  
 - [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Gym-tracker) - jõusaali äpp
-- [Martin Joosep Reiljan](https://github.com/Joosepi/kennel-app) - kennel ???
+- [Martin Joosep Reiljan](https://github.com/Joosepi/kennel-app) - Looma tervise äpp
 
 
 # 2024
