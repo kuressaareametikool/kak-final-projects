@@ -11,7 +11,7 @@
 - [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp
 - [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
 - [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - lennunduse API (mäng?)
-- [Kevin Kangur]() - riistvara komponentide soovitamine ???
+- [Kevin Kangur](https://github.com/KevinKangur/PC-Part-Suggester) - riistvara komponentide soovitamine  
 - [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Gym-tracker) - jõusaali äpp
 - [Martin Joosep Reiljan](https://github.com/Joosepi/kennel-app) - kennel ???
 
