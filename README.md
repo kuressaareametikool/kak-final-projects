@@ -8,7 +8,7 @@
 - [Kertu Beljäev](https://github.com/Kertu2011/final-project) - kogukonnamuuseumi andmebaas
 - [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - Brauseri laiendus - AdBlock / Performance analüüs
 - [Mardo Mai](https://github.com/mardomai/L-put-) - Veebileht katusefirmale ~~/ e-pood~~
-- [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp
+- [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp [salajane repo](https://github.com/R0binj0/KuldneKroonDev)
 - [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
 - [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - lennunduse API (mäng?)
 - [Kevin Kangur](https://github.com/KevinKangur/PC-Part-Suggester) - riistvara komponentide soovitamine  
