@@ -3,8 +3,8 @@
 # 2025
 
 ## TAK-22
-- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale / Trustpiloti laadne reitingute jagamise teenus
-- [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - 2D mäng või CS juhendi äpp
+- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale ~~/ Trustpiloti laadne reitingute jagamise teenus~~
+- [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - Lõpuprojekt tuleb praktikakohast - Veebileht kliendile ~~/ 2D mäng või CS juhendi äpp~~
 - [Kertu Beljäev](https://github.com/Kertu2011/final-project) - kogukonnamuuseumi andmebaas
 - [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - Brauseri laiendus - AdBlock / Performance analüüs
 - [Mardo Mai](https://github.com/mardomai/L-put-) - e-pood? katusepaigalduse veebileht?
