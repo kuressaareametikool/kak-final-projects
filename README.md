@@ -7,7 +7,7 @@
 - [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - Lõpuprojekt tuleb praktikakohast - Veebileht kliendile ~~/ 2D mäng või CS juhendi äpp~~
 - [Kertu Beljäev](https://github.com/Kertu2011/final-project) - kogukonnamuuseumi andmebaas
 - [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - Brauseri laiendus - AdBlock / Performance analüüs
-- [Mardo Mai](https://github.com/mardomai/L-put-) - e-pood? katusepaigalduse veebileht?
+- [Mardo Mai](https://github.com/mardomai/L-put-) - Veebileht katusefirmale ~~/ e-pood~~
 - [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp
 - [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
 - [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - lennunduse API (mäng?)
