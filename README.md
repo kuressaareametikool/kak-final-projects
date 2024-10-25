@@ -14,7 +14,7 @@
 - [Andrus Raamat]() - teema leidmine - AI chat ja hobid
 - [Erol Trumm]() - Hobi päevik / fotoäpp AR
 - [Emma Lotta Rand](https://github.com/emmalotta/u-teenused) - Puhastusteenusele veebileht
-- [Kristo Lember] () -
+- [Kristo Lember]() -
 - [Henrik Mütt]() -
 
 ## TAK-22
