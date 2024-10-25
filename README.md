@@ -2,6 +2,21 @@
 
 # 2025
 
+## TA-23
+- [Marek Udeküll]() - Ratsutamise treeningute ja matka ettevõtte veebileht (aja broneerimine) / Tabloo edasiarendus  
+- [Anne Ruusmann](https://github.com/Anne-dot/finalProject) - CNC pingi tarkvara uuendamine  
+- [Kert Mänd](https://github.com/1kert/Endproject) - Tahvli Androidi äpp
+- [Jaanika Teearu](https://github.com/JaanikaT/final_project) - Lugemispäevik (või mingi muu hobi päevik) / Toidukorvi hinnavõrdlus
+- [Katrin Ansper]() - Kinnisvarahooldusele veebileht (hinnakalkulaator, broneerimine)
+- [Märt Pors](https://github.com/Mart357/TA-23-Final-Project) - Kivitoodete koduleht (hinnakalkulaator)
+- [Maria Kallaste](https://github.com/mariakallaste/loputoo_ideed/) - e-pood / äripindade rentnike haldus
+- [Jürgen-Mark Heinmets]() - Tabloo edasiarendus
+- [Andrus Raamat]() - teema leidmine - AI chat ja hobid
+- [Erol Trumm]() - Hobi päevik / fotoäpp AR
+- [Emma Lotta Rand](https://github.com/emmalotta/u-teenused) - Puhastusteenusele veebileht
+- [Kristo Lember] () -
+- [Henrik Mütt]() -
+
 ## TAK-22
 - [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale ~~/ Trustpiloti laadne reitingute jagamise teenus~~
 - [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - Lõpuprojekt tuleb praktikakohast - Veebileht kliendile ~~/ 2D mäng või CS juhendi äpp~~
