@@ -3,7 +3,7 @@
 # 2025
 
 ## TA-23
-- [Marek Udeküll]() - Ratsutamise treeningute ja matka ettevõtte veebileht (aja broneerimine) / Tabloo edasiarendus  
+- [Marek Udeküll](https://github.com/udekas/horseriding_homepage/wiki) - Ratsutamise treeningute ja matka ettevõtte veebileht (aja broneerimine) / Tabloo edasiarendus  
 - [Anne Ruusmann](https://github.com/Anne-dot/finalProject) - CNC pingi tarkvara uuendamine  
 - [Kert Mänd](https://github.com/1kert/Endproject) - Tahvli Androidi äpp
 - [Jaanika Teearu](https://github.com/JaanikaT/final_project) - Lugemispäevik (või mingi muu hobi päevik) / Toidukorvi hinnavõrdlus
