@@ -7,11 +7,11 @@
 - [Anne Ruusmann](https://github.com/Anne-dot/finalProject) - CNC pingi tarkvara uuendamine  
 - [Kert Mänd](https://github.com/1kert/Endproject) - Tahvli Androidi äpp
 - [Jaanika Teearu](https://github.com/JaanikaT/final_project) - Lugemispäevik (või mingi muu hobi päevik) / Toidukorvi hinnavõrdlus
-- [Katrin Ansper]() - Kinnisvarahooldusele veebileht (hinnakalkulaator, broneerimine)
+- [Katrin Ansper](https://github.com/AnsperKatrin/Aiahoid.ee/wiki) - Kinnisvarahooldusele veebileht (hinnakalkulaator, broneerimine)
 - [Märt Pors](https://github.com/Mart357/TA-23-Final-Project) - Kivitoodete koduleht (hinnakalkulaator)
 - [Maria Kallaste](https://github.com/mariakallaste/loputoo_ideed/) - e-pood / äripindade rentnike haldus
 - [Jürgen-Mark Heinmets]() - Tabloo edasiarendus
-- [Andrus Raamat]() - teema leidmine - AI chat ja hobid
+- [Andrus Raamat](https://github.com/araamat/TA-23-Final-Project/wiki) - teema leidmine - AI chat ja hobid
 - [Erol Trumm]() - Hobi päevik / fotoäpp AR
 - [Emma Lotta Rand](https://github.com/emmalotta/u-teenused) - Puhastusteenusele veebileht
 - [Kristo Lember]() -
