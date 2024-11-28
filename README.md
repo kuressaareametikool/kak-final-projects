@@ -15,7 +15,7 @@
 - [Erol Trumm]() - Hobi päevik / fotoäpp AR
 - [Emma Lotta Rand](https://github.com/emmalotta/u-teenused) - Puhastusteenusele veebileht
 - [Kristo Lember]() - Emale pagarikoja veebileht  
-- [Henrik Mütt]() -
+- [Henrik Mütt]() - Laopinna vahendamise teenus  
 
 ## TAK-22
 - [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale ~~/ Trustpiloti laadne reitingute jagamise teenus~~
