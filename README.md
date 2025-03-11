@@ -18,18 +18,19 @@
 - [Henrik Mütt](https://github.com/henrikmutt/lopuToo) - Laopinna vahendamise teenus  
 
 ## TAK-22
-- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale ~~/ Trustpiloti laadne reitingute jagamise teenus~~
-- [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - Lõpuprojekt tuleb praktikakohast - Veebileht kliendile ~~/ 2D mäng või CS juhendi äpp~~
+- [Romello Lasn](https://github.com/RomelloLasn/Endproject) - Veebileht katusefirmale
+- [Mikk Maltis](https://github.com/MikkMaltis/Final-project) - Lõpuprojekt tuleb praktikakohast - Veebileht kliendile
 - [Kertu Beljäev](https://github.com/Kertu2011/final-project) - kogukonnamuuseumi andmebaas
-- [Otto Nuum](https://github.com/Ottonuum/L-put-ideed) - Brauseri laiendus - AdBlock / Performance analüüs
-- [Mardo Mai](https://github.com/mardomai/L-put-) - Veebileht katusefirmale ~~/ e-pood~~
-- [Oskar Kallas, Robin Pruunlep, Jakob Vapper, Axel Pärnoja](https://github.com/JakobVapper/rahatarkuse-app-temporary) - Rahatarkuse äpp [salajane repo](https://github.com/R0binj0/KuldneKroonDev)
-- [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eraõpetajale
-- [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - lennunduse API (mäng?)
+- [Otto Nuum](https://github.com/Ottonuum/Extension) - Subscription extension
+- [Mardo Mai](https://github.com/mardomai/lopuprojekt) - Katusefirma E-Pood
+- [Axel Pärnoja](https://github.com/conjurs/cautious) - BioLink teenus
+- [Oskar Kallas, Jakob Vapper](https://github.com/TiitPriit/ComponentLibrary) - Component Library
+- Robin?
+- [Kevin Jašin](https://github.com/KevinJasin/Final-project) - Veebileht eriõpetajale
+- [Henry Kalvi Kaalma](https://github.com/Beeak/flight-app) - Õhusõiduki jälgimis / kogumis äpp
 - [Kevin Kangur](https://github.com/KevinKangur/PC-Part-Suggester) - riistvara komponentide soovitamine  
-- [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Gym-tracker) - jõusaali äpp
+- [Kristo-Steven Altmäe](https://github.com/StevenAltmae/Final-project) - Veebipood ja koduleht rehvimüügiga tegelevale ettevõttele.
 - [Martin Joosep Reiljan](https://github.com/Joosepi/kennel-app) - Looma tervise äpp
-
 
 # 2024
 
