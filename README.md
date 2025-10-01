@@ -10,7 +10,7 @@
 - [Kristo Lember](https://github.com/x3kristx/loputoo) - Mäng Lua baasil.
 - [Kadri Kaljo, Marelle Palm, Liisa Raik](https://github.com/KadriKaljo/Kadri_Kaljo_Final_Project_TA-24) - Aiahaldusrakendus
 - [Robin Vaga](https://github.com/RobinVaga/discpro) - Discgolfi äpp
-- [Maikel Lätt](https://github.com/Maikellatt/KoristusKuningasFinal) - Broneerimissüsteem
+- [Maikel Lätt](https://github.com/Maikellatt/KoristusKuningasFinal) - Koristus Kuninga uus veebileht koos broneerimissüsteemiga
 - [Hendrik Aksalu](https://github.com/HendrikAksalu/Final-Project-TA-24-.git) - Fotoalbum
 
 ## TAK-23
