@@ -7,6 +7,7 @@
 - [Sörel Haller](https://github.com/Sorel-Haller/Sorel_Final2025) - Lemmiklooma terviseäpp
 - [Kristo Lember](https://github.com/x3kristx/loputoo) - Mäng Lua baasil.
 - [Kadri Kaljo, Marelle Palm, Liisa Raik](https://github.com/KadriKaljo/Kadri_Kaljo_Final_Project_TA-24)
+- [Robin Vaga](https://github.com/RobinVaga/discgolf-app) - Discgolfi äpp
 
 ## TAK-23
 
