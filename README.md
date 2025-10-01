@@ -3,7 +3,7 @@
 #2026
 
 ## TA-24
-
+- [Sander Armus](https://github.com/SanderArmus/DiscFinder) - Kaotatud ja leitud discgolfi ketaste veebirakendus, mis viib ketta omaniku ja leidja kokku. 
 - [Sörel Haller](https://github.com/Sorel-Haller/Sorel_Final2025) - Lemmiklooma terviseäpp
 - [Kristo Lember](https://github.com/x3kristx/loputoo) - Mäng Lua baasil.
 - [Kadri Kaljo, Marelle Palm, Liisa Raik](https://github.com/KadriKaljo/Kadri_Kaljo_Final_Project_TA-24)
