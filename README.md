@@ -3,6 +3,7 @@
 #2026
 
 ## TA-24
+- [Sander Armus](https://github.com/SanderArmus/DiscFinder) - Kaotatud ja leitud discgolfi ketaste veebirakendus, mis viib ketta omaniku ja leidja kokku. 
 
 ## TAK-23
 
