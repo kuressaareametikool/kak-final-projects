@@ -3,7 +3,7 @@
 #2026
 
 ## TA-24
-
+- [Kristo Lember](https://github.com/x3kristx/loputoo) Mäng Lua baasil.
 ## TAK-23
 
 # 2025
