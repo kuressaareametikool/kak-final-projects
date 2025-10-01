@@ -3,7 +3,7 @@
 #2026
 
 ## TA-24
-- [Kadri Kaljo, Marelle Palm, Liisa Raik] (https://github.com/KadriKaljo/Kadri_Kaljo_Final_Project_TA-24)
+- [Sörel Haller](https://github.com/Sorel-Haller/Sorel_Final2025) - Lemmiklooma terviseäpp
 ## TAK-23
 
 # 2025
