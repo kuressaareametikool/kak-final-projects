@@ -4,13 +4,14 @@
 
 ## TA-24
 
-- [Mikhail Kucherenko](https://github.com/GoodFe11ow/Final-project)
+- [Mikhail Kucherenko](https://github.com/GoodFe11ow/Final-project) - rakendus kondiitritele
 - [Sander Armus](https://github.com/SanderArmus/DiscFinder) - Kaotatud ja leitud discgolfi ketaste veebirakendus, mis viib ketta omaniku ja leidja kokku. 
 - [Sörel Haller, Kevin Siim](https://github.com/Sorel-Haller/Sorel_Final2025) - Lemmiklooma terviseäpp
 - [Kristo Lember](https://github.com/x3kristx/loputoo) - Mäng Lua baasil.
-- [Kadri Kaljo, Marelle Palm, Liisa Raik](https://github.com/KadriKaljo/Kadri_Kaljo_Final_Project_TA-24)
+- [Kadri Kaljo, Marelle Palm, Liisa Raik](https://github.com/KadriKaljo/Kadri_Kaljo_Final_Project_TA-24) - Aiahaldusrakendus
 - [Robin Vaga](https://github.com/RobinVaga/discgolf-app) - Discgolfi äpp
 - [Maikel Lätt](https://github.com/Maikellatt/KoristusKuningasFinal) - Broneerimissüsteem
+- [Hendrik Aksalu](https://github.com/HendrikAksalu/Final-Project-TA-24-.git) - Fotoalbum
 
 ## TAK-23
 
