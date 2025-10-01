@@ -1,5 +1,11 @@
 # Kuressaare Ametikool junior software developer final projects
 
+#2026
+
+## TA-24
+
+## TAK-23
+
 # 2025
 
 ## TA-23
