@@ -1,6 +1,6 @@
 # Kuressaare Ametikool junior software developer final projects
 
-#2026
+# 2026
 
 ## TA-24
 
@@ -18,11 +18,8 @@
 - [Andre Leppik, Kaspar Truu](https://github.com/vndrre/e-kaltsukas ) - taaskasutatud riiete poe rakendus
 - [Jürgen Vander](https://github.com/jyrgen112/cat_mobileapp) -Kassi varjupaiga äpp
 - [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
-
 - [Silver Reinart](https://github.com/silverreinart1/Final-Project) - Mootorratturitele mõeldud äpp
-
 - [Ken-Martti, Robby, Taaniel](https://github.com/Kennu156/final-project.git) - Burgeri rakendus
-- 
 - [Robin Mihkelson](https://github.com/robinmihkelson/steps-counter-app) - Steps Counter App
 # 2025
 
