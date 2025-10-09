@@ -14,6 +14,7 @@
 - [Hendrik Aksalu](https://github.com/HendrikAksalu/Final-Project-TA-24-.git) - Fotoalbum
 
 ## TAK-23
+- [Volodymyr Zhuliev](https://github.com/Aern-do/unnamedc) - lihtne AOT-kompilaator
 
 - [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
 # 2025
