@@ -22,6 +22,8 @@
 - [Silver Reinart](https://github.com/silverreinart1/Final-Project) - Mootorratturitele mõeldud äpp
 
 - [Ken-Martti, Robby, Taaniel](https://github.com/Kennu156/final-project.git) - Burgeri rakendus
+- 
+- [Robin Mihkelson](https://github.com/robinmihkelson/steps-counter-app) - Steps Counter App
 # 2025
 
 ## TA-23
