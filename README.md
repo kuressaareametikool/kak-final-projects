@@ -18,6 +18,8 @@
 - [Andre Leppik, Kaspar Truu](https://github.com/vndrre/e-kaltsukas ) - taaskasutatud riiete poe rakendus
 
 - [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
+
+- [Silver Reinart](https://github.com/silverreinart1/Final-Project) - Mootorratturitele mõeldud äpp
 # 2025
 
 ## TA-23
