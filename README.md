@@ -16,7 +16,7 @@
 ## TAK-23
 - [Volodymyr Zhuliev](https://github.com/Aern-do/unnamedc) - lihtne AOT-kompilaator
 - [Andre Leppik, Kaspar Truu](https://github.com/vndrre/e-kaltsukas ) - taaskasutatud riiete poe rakendus
-
+- [Jürgen Vander](https://github.com/jyrgen112/cat_mobileapp) -Kassi varjupaiga äpp
 - [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
 # 2025
 
