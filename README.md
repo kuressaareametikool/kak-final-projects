@@ -16,6 +16,7 @@
 ## TAK-23
 - [Volodymyr Zhuliev](https://github.com/Aern-do/unnamedc) - lihtne AOT-kompilaator
 
+- [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
 # 2025
 
 ## TA-23
