@@ -12,7 +12,7 @@
 - [Robin Vaga](https://github.com/RobinVaga/discpro) - Discgolfi äpp
 - [Maikel Lätt](https://github.com/Maikellatt/KoristusKuningasFinal) - Koristus Kuninga uus veebileht koos broneerimissüsteemiga
 - [Hendrik Aksalu](https://github.com/HendrikAksalu/Final-Project-TA-24-.git) - Fotoalbum
-- [Siim Nurja] (https://github.com/SiimNu89/Transport-App) - Transpordi rakendus
+- Siim Nurja (https://github.com/SiimNu89/Transport-App) - Transpordi rakendus
 
 ## TAK-23
 - [Volodymyr Zhuliev](https://github.com/Aern-do/voxel-raytracer) - Voxel Raytracer
