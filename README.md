@@ -23,6 +23,7 @@
 - [Ken-Martti, Robby, Taaniel](https://github.com/Kennu156/final-project.git) - Burgeri rakendus
 - [Robin Mihkelson](https://github.com/robinmihkelson/steps-counter-app) - Steps Counter App
 - [Kristofer Mere](https://github.com/kiku69/DiscgolfApp.git) - Discgolfi challenge app
+- [Oliver Põder](https://github.com/Fluzby/2026-Project) - Tracking App
 
 # 2025
 
