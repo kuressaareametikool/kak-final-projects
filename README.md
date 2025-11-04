@@ -21,7 +21,7 @@
 - [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
 - [Silver Reinart](https://github.com/silverreinart1/Final-Project) - Mootorratturitele mõeldud äpp
 - [Ken-Martti, Robby, Taaniel](https://github.com/Kennu156/final-project.git) - Burgeri rakendus
-- [Robin Mihkelson](https://github.com/robinmihkelson/steps-counter-app) - Steps Counter App
+- [Robin Mihkelson](https://github.com/robinmihkelson/construction-web-app) - Construction web app
 - [Kristofer Mere](https://github.com/kiku69/DiscgolfApp.git) - Discgolfi challenge app
 - [Oliver Põder](https://github.com/Fluzby/2026-Project) - Tracking App
 - [Juhan Heinlaid](https://github.com/D1ZEASE420/Final-Project?tab=readme-ov-file#final-project) - Asukohapõhine alamäng
