@@ -4,7 +4,7 @@
 
 ## TA-24
 
-- [Mikhail Kucherenko](https://github.com/GoodFe11ow/Final-project) - rakendus kondiitritele
+- [Mikhail Kucherenko](https://github.com/GoodFe11ow/Final-project) - Productivity app
 - [Sander Armus](https://github.com/SanderArmus/DiscFinder) - Kaotatud ja leitud discgolfi ketaste veebirakendus, mis viib ketta omaniku ja leidja kokku. 
 - [Sörel Haller, Kevin Siim](https://github.com/Sorel-Haller/Sorel_Final2025) - Lemmiklooma terviseäpp
 - [Kristo Lember](https://github.com/x3kristx/loputoo) - Mäng Lua baasil.
