@@ -4,7 +4,7 @@
 
 ## TA-24
 
-- [Mikhail Kucherenko](https://github.com/GoodFe11ow/Final-project) - rakendus kondiitritele
+- [Mikhail Kucherenko](https://github.com/GoodFe11ow/Final-project) - Productivity app
 - [Sander Armus](https://github.com/SanderArmus/DiscFinder) - Kaotatud ja leitud discgolfi ketaste veebirakendus, mis viib ketta omaniku ja leidja kokku. 
 - [Sörel Haller, Kevin Siim](https://github.com/Sorel-Haller/Sorel_Final2025) - Lemmiklooma terviseäpp
 - [Kristo Lember](https://github.com/x3kristx/loputoo) - Mäng Lua baasil.
@@ -21,9 +21,10 @@
 - [Emily Selge, Kätlin Epelbaum](https://github.com/KatlinEpelbaum/movies-books-app) - Raamatute/filmide rakendus
 - [Silver Reinart](https://github.com/silverreinart1/Final-Project) - Mootorratturitele mõeldud äpp
 - [Ken-Martti, Robby, Taaniel](https://github.com/Kennu156/final-project.git) - Burgeri rakendus
-- [Robin Mihkelson](https://github.com/robinmihkelson/steps-counter-app) - Steps Counter App
+- [Robin Mihkelson](https://github.com/robinmihkelson/construction-web-app) - Construction web app
 - [Kristofer Mere](https://github.com/kiku69/DiscgolfApp.git) - Discgolfi challenge app
 - [Oliver Põder](https://github.com/Fluzby/2026-Project) - Real Estate CRM
+- [Juhan Heinlaid](https://github.com/D1ZEASE420/Final-Project?tab=readme-ov-file#final-project) - Asukohapõhine alamäng
 
 # 2025
 
